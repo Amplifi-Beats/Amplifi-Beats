@@ -2,6 +2,7 @@
 
 <!--
 **Amplifi-Studios/Amplifi-Studios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+![amplifibeats](https://i.ibb.co/qDchFCF/Amplifi-Vinyl-Mockup.png)
 
 # Amplifi 
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/amplifi-beats?style=social)
@@ -12,7 +13,7 @@ i make music, and pretend i know how to code
 
 check out my [soundcloud](https://soundcloud.com/amplifi-beats) to bless your ears
 
-
+---
 
 
 ## Contributing if you want
