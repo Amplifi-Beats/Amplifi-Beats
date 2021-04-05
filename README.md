@@ -11,7 +11,10 @@
 # Amplifi 
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/amplifi-beats?style=social)
 
-i make music, and pretend i know how to code
+im 16, i make music, and pretend i know how to code.
+<br>
+HTML, CSS, lil bit of JS & Python
+
 
 ## Music
 
@@ -27,4 +30,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/) for code and All right reserved for Music and media
+All right reserved for Music and media
