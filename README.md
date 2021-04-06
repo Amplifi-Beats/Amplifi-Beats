@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 🎶
 [visit my super cool website!](amplifi-beats.github.io)
+[i have a gemini one too](https://amplifibeats.pollux.casa)
+
+
 
 [![Amplifi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amplifi-Beats)](https://github.com/anuraghazra/github-readme-stats)
 
