@@ -1,1 +1,1 @@
-![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/amplifi-beats?template=terminal&languages=1&introduction=1&lines=1&languages.colors=github&languages.threshold=0%25&introduction.title=true&config.timezone=Europe%2FDublin)
