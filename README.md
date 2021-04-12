@@ -4,7 +4,7 @@
 
 
 # Amplifi 
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/amplifi-beats?style=social)
+
 
 im 16, i make music, and pretend i know how to code.
 <br>
