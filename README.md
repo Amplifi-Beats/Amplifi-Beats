@@ -17,9 +17,13 @@ HTML, CSS, lil bit of JS & Python. Starting to learn gmi markup too
 
 ## Stuff I've done
 
-Translated Openblocks and Archo Music into Irish
+Translated OpenBlocks and Archo Music into Irish
 <br>
-(D’aistrigh mé Openblocks agus Archo Music as Gaeilge)
+(D’aistrigh mé OpenBlocks agus Archo Music as Gaeilge)
+<br>
+[OpenBlocks](https://openblocks.tk/)
+<br>
+[Archo Music](https://www.audiodev.tk/)
 
 ---
 
