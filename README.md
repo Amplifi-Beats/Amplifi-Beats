@@ -15,9 +15,11 @@ HTML, CSS, lil bit of JS & Python. Starting to learn gmi markup too
 
 
 
-## Music
+## Stuff I've done
 
-check out my [soundcloud](https://soundcloud.com/amplifi-beats) to bless your ears
+Translated Openblocks and Archo Music into Irish
+<br>
+(D’aistrigh mé Openblocks agus Archo Music as Gaeilge)
 
 ---
 
