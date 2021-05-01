@@ -9,7 +9,9 @@
 im 16, i make music, and pretend i know how to code.
 <br>
 HTML, CSS, lil bit of JS & Python. Starting to learn gmi markup too
-
+<br>
+<br>
+Dia duit, is mise Amplifi. Tá mé sé bliana déag d'aois, Cummaim ceol agus ligim go bhfuil a fhios agam conas cód a dhéanamh.
 
 [![Amplifi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amplifi-Beats)](https://github.com/anuraghazra/github-readme-stats)
 
