@@ -1,19 +1,20 @@
-### Hi there 🎶
 
 
 
 
-# Amplifi 
+ <img src="https://amplifi-beats.github.io/LinkFree/img/avatar.png" alt="drawing" height="25px"/> </img>
+  # amplifi
 
+
+[![Amplifi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amplifi-Beats)](https://github.com/anuraghazra/github-readme-stats)
 
 im 16, i make music, and pretend i know how to code.
 <br>
-HTML, CSS, lil bit of JS & Python. Starting to learn gmi markup too
+I know HTML, CSS, GMI, Markdown, Setanta and a lil bit of Javascript and Python
 <br>
 <br>
 Dia duit, is mise Amplifi. Tá mé sé bliana déag d'aois, Cummaim ceol agus ligim go bhfuil a fhios agam conas cód a dhéanamh.
 
-[![Amplifi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amplifi-Beats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -31,11 +32,11 @@ Translated OpenBlocks and Archo Music into Irish
 
 
 ## Contributing if you want
-Pull requests are welcome. For major changes, please open an issue first to discuss what you want to change.
+Pull requests are welcome. For major changes, please open an issue first to let me know what you want to change.
 
 Please make sure to update tests when needed
 
 ## License
 All rights reserved for Music and media. Repositories will have the relevant license attached
 
-![](https://i.imgur.com/qid8AbN.png)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=grow_out_in&layout=default&font=default)
