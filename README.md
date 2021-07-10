@@ -27,6 +27,8 @@ Translated OpenBlocks and Archo Music into Irish
 [OpenBlocks](https://openblocks.tk/)
 <br>
 [Archo Music](https://www.audiodev.tk/)
+<br>
+I'm now a contributor to Archo Music, and Openblocks is closed source for now lol
 
 ---
 
