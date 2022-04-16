@@ -2,13 +2,11 @@
 
 
 
- <img src="https://amplifi-beats.github.io/LinkFree/img/avatar.png" alt="drawing" height="25px"/> </img>
-  # amplifi
 
 
 [![Amplifi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amplifi-Beats)](https://github.com/anuraghazra/github-readme-stats)
 
-im 16, i make music, and pretend i know how to code.
+im 17, i make music, and pretend i know how to code.
 <br>
 I know HTML, CSS, GMI, Markdown, Setanta and a lil bit of Javascript and Python
 <br>
