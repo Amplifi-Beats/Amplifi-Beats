@@ -1,6 +1,6 @@
 
 
-
+<img src="https://img.shields.io/liberapay/patrons/amplifi.svg?logo=liberapay">
 
 
 
