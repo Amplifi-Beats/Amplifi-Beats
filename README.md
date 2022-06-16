@@ -2,7 +2,9 @@
 
 <img src="https://img.shields.io/liberapay/patrons/amplifi.svg?logo=liberapay">
 
-
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
 [![Amplifi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amplifi-Beats)](https://github.com/anuraghazra/github-readme-stats)
 
