@@ -30,6 +30,9 @@ Translated OpenBlocks and Archo Music into Irish
 <br>
 I've done some contributions and whatever
 
+I self host now, kinda anyway
+<br>
+[Searx Instance](https://my.amplifi.lol/searx)
 ---
 
 
