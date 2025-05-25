@@ -8,12 +8,12 @@
 
 [![Amplifi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amplifi-Beats)](https://github.com/anuraghazra/github-readme-stats)
 
-im 17, i make music, and pretend i know how to code.
+im 20, i make music, and i'm learning to code
 <br>
-I know HTML, CSS, GMI, Markdown, Setanta and a lil bit of Javascript and Python
+I know basic HTML, CSS, JS. Currently Learning C# via Microsoft's foundational course
 <br>
 <br>
-Dia duit, is mise Amplifi. Tá mé seacht mbliana déag d'aois, Cummaim ceol agus ligim go bhfuil a fhios agam conas cód a dhéanamh.
+Dia duit, is mise Amplifi. Tá mé seacht mbliana déag d'aois, Cummaim ceol agus ligim go bhfuil a fhios agam conas cód a dhéanamh :P
 
 
 
@@ -29,15 +29,4 @@ Translated OpenBlocks and Archo Music into Irish
 [Archo Music](https://www.audiodev.tk/)
 <br>
 I've done some contributions and whatever
-
-I self host now, kinda anyway
-<br>
-[Searx Instance](https://my.amplifi.lol/searx)
----
-
-
-
-## License
-All rights reserved for Music and media. Repositories will have the relevant license attached
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=grow_out_in&layout=default&font=default)
+AFAIK these projects are dead, I'd prefer to think that wasn't my doing
